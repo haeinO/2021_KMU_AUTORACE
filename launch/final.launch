@@ -38,5 +38,5 @@
         <remap from="camera_info"   to="$(arg cam_info_topic)" />
     </node>
     
-    <node name="auto_drive" pkg="final_drive" type="gwanho.py" output="screen" />
+    <node name="auto_drive" pkg="final_drive" type="main.py" output="screen" />
 </launch>
