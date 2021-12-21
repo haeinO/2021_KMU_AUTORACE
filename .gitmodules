@@ -1,0 +1,3 @@
+[submodule "obstacle_detector"]
+	path = obstacle_detector
+	url = https://github.com/tysik/obstacle_detector
