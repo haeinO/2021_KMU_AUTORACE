@@ -4,4 +4,4 @@
 팀 FOSCAR의 소스코드입니다.
 
 ## 팀원
-[@haeinO](https://github.com/haeinO), [@Jivv0n](https://github.com/Jivv0n), [@GwanHo0806](https://github.com/gwanho-0806), [@yuziin](https://github.com/yuziin), [@limgoun](https://github.com/limgoun)
+[@GwanHo0806](https://github.com/gwanho-0806), [@Jivv0n](https://github.com/Jivv0n), [@haeinO](https://github.com/haeinO)
